@@ -4,5 +4,8 @@
   },
   "devDependencies": {
     "cypress": "^2.0.1"
+  },
+  "dependencies": {
+    "faker": "^4.1.0"
   }
 }
